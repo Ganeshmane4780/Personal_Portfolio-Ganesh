@@ -21,7 +21,8 @@ This is my **personal portfolio website** built using **ReactJS**, designed to s
 
 ## 📸 Live Demo
 
-Check it out here: [https://ganesh-portfolio.vercel.app](https://ganesh-portfolio.vercel.app)
+Check it out here: [https://personal-portfolio-ganesh-o389.vercel.app](https://personal-portfolio-ganesh-o389.vercel.app)
+
 
 ## 📂 Installation & Setup
 
