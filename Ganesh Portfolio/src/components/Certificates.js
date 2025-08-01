@@ -5,8 +5,8 @@ function Certificates() {
     {
       title: "Full Stack Java Developer",
       platform: "SevenMentor & Training Pvt. Ltd.",
-      date: "July 2025",
-      link: "/certificates/fullstack-java.pdf", 
+      date: "May 2025",
+      link: "https://drive.google.com/file/d/1y_JC0DZ_zWWvEkpCXIxhf8v17mMDd3Dz/view?usp=drive_link", 
     },
     {
       title: "Software Engineering Virtual Internship",
