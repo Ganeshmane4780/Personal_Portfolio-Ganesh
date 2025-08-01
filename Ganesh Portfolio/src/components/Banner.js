@@ -49,7 +49,7 @@ export const Banner = () => {
   }
 
   const onButtonClick = () => {
-    const pdfUrl = "https://drive.google.com/file/d/1QA7vSLpyZ9EySlFI2IHXlCz4xnBkmqE2/view?usp=drive_link";
+    const pdfUrl = "https://drive.google.com/file/d/1pcsEs0vbGFe_SuWdorB3OCCV0a5DuzDo/view?usp=drive_link";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "document.pdf"; // specify the filename
