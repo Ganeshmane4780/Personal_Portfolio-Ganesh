@@ -44,6 +44,12 @@ function Certificates() {
       date: "Feb 2025",
       link: "https://www.hackerrank.com/certificates/9fcb7cf50033",
     },
+     {
+      title: " Completion of Java Training   ",
+      platform: "by EduPyramids, SINE, IIT Bombay.",
+      date: "Aug 2025",
+      link: "https://drive.google.com/file/d/1SJ2faUXnb4pMll49onezQHGRffNg6gN5/view?usp=drive_link",
+    },
   ];
 
   return (
@@ -71,3 +77,4 @@ function Certificates() {
 }
 
 export default Certificates;
+
