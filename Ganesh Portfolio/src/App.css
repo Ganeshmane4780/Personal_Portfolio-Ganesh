@@ -657,7 +657,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .cert-btn:hover {
-  background-color: #6f47ff;
+/*   background-color: #6f47ff; */
+	background-color:black;
 }
 
 
